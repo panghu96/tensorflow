@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/sun/py_code/py36/deep_learning/day01/tmp/ckpt/model"
+all_model_checkpoint_paths: "/home/sun/py_code/py36/deep_learning/day01/tmp/ckpt/model"
